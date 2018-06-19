@@ -1,0 +1,28 @@
+{
+  "name": "react-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjaguero00/react-news.git"
+  },
+  "author": "Robert Aguero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjaguero00/react-news/issues"
+  },
+  "homepage": "https://github.com/rjaguero00/react-news#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1"
+  }
+}

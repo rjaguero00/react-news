@@ -1,5 +1,5 @@
 // Require Mongoose
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
 // Create a Schema Class
 const Schema = mongoose.Schema;
@@ -24,7 +24,6 @@ const articleSchema = new Schema({
         type: String,
         required: true
     }
-
 });
 
 const Article = mongoose.model("Article", articleSchema); // This creates our model from the above schema, using mongoose's model method
