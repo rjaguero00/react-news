@@ -20,7 +20,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mongoose": "^5.1.5",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1"
